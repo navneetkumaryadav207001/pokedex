@@ -11,6 +11,7 @@ Yes, you heard that right. You'll be able to **point your camera at a Pokémon**
 
 We’ll be building:
 
+- It will be a react application
 - 🏗️ **AlexNet** from scratch — one of the OG deep learning models.
 - 🐉 A classifier trained on **1,000+ Pokémon** across all generations.
 - 💾 A massive dataset, ImageNet-style — sprites, art, and fan art included.
