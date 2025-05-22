@@ -6,9 +6,6 @@ function Footer() {
     <footer className={styles.container}>
       <div className={styles.content}>
         <p>&copy; {new Date().getFullYear()} Pokédex. All rights reserved.</p>
-        <p>
-          Built with ❤️ using React. Not affiliated with Nintendo or The Pokémon Company.
-        </p>
       </div>
       <nav>
         <Link to="/about">About</Link>
