@@ -1,0 +1,19 @@
+/* layout.module.css */
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.mainWrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full height */
+}
+
+.main {
+  flex-grow: 1; /* Take up all available space between topbar and footer */
+  padding: 16px; /* optional */
+  background-color: #b26262; /* optional */
+}
