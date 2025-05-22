@@ -38,6 +38,6 @@ We’ll be building:
 
 ---
 
-### 🤯 The Real Problem...
+### 🤯 A Tiny Problem...
 
 > **"How TF do I find Pokémon in the real world?"**
