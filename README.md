@@ -46,11 +46,3 @@ That’s the _true_ mystery.
 Until then, we’ll stick to images, screenshots, and drawings 😄
 
 ---
-
-### 🌟 Stay tuned!
-
-Whether you're a deep learning nerd or a lifelong Pokémon fan, you're in for a fun ride.
-
-Wanna contribute? Ideas? Dataset sources? Drop a message or open an issue!
-
-Gotta learn ’em all. 🔥
