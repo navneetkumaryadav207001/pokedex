@@ -30,12 +30,7 @@ We’ll be building:
 ### 🚧 Challenges
 
 > ❌ I don’t have a top-tier GPU (just a 4050 laptop GPU),  
-> ✅ So... we’ll have to **hack our way through** with:
->
-> - Data-efficient tricks
-> - Transfer learning
-> - Mixed precision
-> - And good ol’ patience
+> ✅ So... we’ll have to **hack our way through**
 
 ---
 
