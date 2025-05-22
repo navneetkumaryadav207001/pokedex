@@ -39,20 +39,20 @@
          offset="0"
          id="stop22120" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#eaff8d;stop-opacity:0;"
          offset="1"
          id="stop22122" />
     </linearGradient>
     <linearGradient
        id="linearGradient20168">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color: #eaff8d;stop-opacity:1;"
          offset="0"
          id="stop20170" />
       <stop
          id="stop21145"
          offset="0.5"
-         style="stop-color:#000000;stop-opacity:0.49803922;" />
+         style="stop-color:#eaff8d;stop-opacity:0.49803922;" />
       <stop
          style="stop-color:#0035ff;stop-opacity:0;"
          offset="1"
@@ -61,11 +61,11 @@
     <linearGradient
        id="linearGradient17227">
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#eaff8d;stop-opacity:0;"
          offset="0"
          id="stop17229" />
       <stop
-         style="stop-color:#fbff00;stop-opacity:1;"
+         style="stop-color:#eaff8d;stop-opacity:1;"
          offset="0.93220341"
          id="stop17237" />
       <stop
@@ -78,18 +78,18 @@
       <stop
          id="stop14175"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0;" />
+         style="stop-color:#f2fe6c;stop-opacity:0;" />
       <stop
          id="stop14177"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffe015;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient11028">
       <stop
          id="stop11030"
          offset="0"
-         style="stop-color:#fbff00;stop-opacity:1;" />
+         style="stop-color:#f9fb6e;stop-opacity:1;" />
       <stop
          id="stop11032"
          offset="1"
@@ -298,7 +298,7 @@
          sodipodi:cy="543.79077"
          sodipodi:cx="-1371.4286"
          id="path17147"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+         style="opacity:1;fill:#eaff8d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9737282,0,0,0.9861367,612.44114,723.22423)"

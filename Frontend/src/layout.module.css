@@ -16,4 +16,7 @@ html, body, #root {
   flex-grow: 1; /* Take up all available space between topbar and footer */
   padding: 16px; /* optional */
   background-color: #b26262; /* optional */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
