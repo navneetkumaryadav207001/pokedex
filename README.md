@@ -41,8 +41,3 @@ We’ll be building:
 ### 🤯 The Real Problem...
 
 > **"How TF do I find Pokémon in the real world?"**
-
-That’s the _true_ mystery.  
-Until then, we’ll stick to images, screenshots, and drawings 😄
-
----
